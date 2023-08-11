@@ -1,0 +1,98 @@
+[
+	{
+		"player": {
+			"name": "Andrey",
+			"country": "Russia",
+			"age": 28,
+            "image": "player1"
+		},
+		"player_info": {
+			"level": 2,
+			"score": 450
+		}
+	},
+	{
+		"player": {
+			"name": "Alex",
+			"country": "UK",
+			"age": 20,
+            "image": "player2"
+		},
+		"player_info": {
+			"level": 2,
+			"score": 1050
+		}
+	},
+	{
+		"player": {
+			"name": "Daria",
+			"country": "Russia",
+			"age": 27,
+            "image": "player3"
+		},
+		"player_info": {
+			"level": 1,
+			"score": 80
+		}
+	},
+	{
+		"player": {
+			"name": "Kate",
+			"country": "USA",
+			"age": 35,
+            "image": "player4"
+		},
+		"player_info": {
+			"level": 3,
+			"score": 3100
+		}
+	},
+	{
+		"player": {
+			"name": "Max",
+			"country": "UK",
+			"age": 30,
+            "image": "player5"
+		},
+		"player_info": {
+			"level": 1,
+			"score": 150
+		}
+	},
+	{
+		"player": {
+			"name": "Sam",
+			"country": "USA",
+			"age": 23,
+            "image": "player6"
+		},
+		"player_info": {
+			"level": 1,
+			"score": 95
+		}
+	},
+	{
+		"player": {
+			"name": "Ivan",
+			"country": "Russia",
+			"age": 29,
+            "image": "player7"
+		},
+		"player_info": {
+			"level": 2,
+			"score": 195
+		}
+	},
+	{
+		"player": {
+			"name": "Jack",
+			"country": "USA",
+			"age": 19,
+            "image": "player8"
+		},
+		"player_info": {
+			"level": 3,
+			"score": 2895
+		}
+	}
+]
